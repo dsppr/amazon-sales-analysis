@@ -1,4 +1,4 @@
-# Amazon Sales Performance Analysis (End-to-End BI Pipeline)
+# Amazon Sales Performance Analysis
 
 ![Dashboard Analysis](docs/images.png)
 
@@ -40,6 +40,6 @@ Repositori ini disusun secara modular untuk memisahkan logika pemrosesan, penyim
 3. Sesuaikan Data Source Settings untuk menghubungkan Power BI dengan database lokal Anda.
 
 ---
-**Resource**: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
-**Analis**: Mohamad Rizki Septiyanto 
+**Resource**: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset \
+**Analis**: Mohamad Rizki Septiyanto \
 **Status**: Selesai 7 April 2026
