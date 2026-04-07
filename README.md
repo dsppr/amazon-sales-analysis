@@ -9,7 +9,7 @@ Proyek ini melakukan analisis mendalam terhadap lebih dari 1.300 SKU produk Amaz
 Repositori ini disusun secara modular untuk memisahkan logika pemrosesan, penyimpanan, dan visualisasi:
 * **data/**: Berisi dataset hasil sanitasi (amazon_cleaned.csv).
 * **sql_scripts/**: Berisi naskah query analisis dan database dump (amazon_analysis_full_dump.sql).
-* **dashboard/**: Berisi file master Power BI (Amazon_Sales_Analysis_Dashboard_v1.0_PROD.pbix).
+* **dashboard/**: Berisi file master Power BI (amazon_sales_dashboard.pbix).
 * **docs/**: Berisi aset dokumentasi dan gambar dashboard.
 * **README.md**: Dokumentasi utama proyek.
 
